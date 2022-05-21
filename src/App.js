@@ -17,7 +17,7 @@ function App() {
     method: "GET",
     url: "https://wordsapiv1.p.rapidapi.com/words/test/pertainsTo",
     headers: {
-      "X-RapidAPI-Key": "50c9736a4dmshb9bb4dc16f53435p173d1fjsn6ea23a83913b",
+      "X-RapidAPI-Key": "",
       "X-RapidAPI-Host": "wordsapiv1.p.rapidapi.com",
     },
   };
